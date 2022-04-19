@@ -9,7 +9,7 @@ public class App_objetos {
         persona1.setNombre("Jhonny Martínez");
         System.out.println(persona1.getNombre());
 
-        //Teléfono
+        // Teléfono
         persona1.setTelefono(3022481);
         System.out.println(persona1.getTelefono());
 
