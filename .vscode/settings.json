@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Introducción programación/Tema4/src",
-        "Introducción programación/Tema3/src"
+        "Introducción programación/Tema3/src",
+        "Introducción programación/Tema8/src"
     ]
 }

@@ -1,4 +1,4 @@
-public class App {
+public class App_objetos {
     public static void main(String[] args) throws Exception {
         Persona persona1 = new Persona();
         // Edad
