@@ -17,9 +17,9 @@ public class App_objetos {
 }
 
 class Persona {
-    int edad;
-    String nombre;
-    int telefono;
+    private int edad;
+    private String nombre;
+    private int telefono;
 
     public void setEdad(int edad) {
         this.edad = edad;
