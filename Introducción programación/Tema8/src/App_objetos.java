@@ -10,7 +10,7 @@ public class App_objetos {
         System.out.println(persona1.getNombre());
 
         // Teléfono
-        persona1.setTelefono(3022481);
+        persona1.setTelefono(302248171);
         System.out.println(persona1.getTelefono());
     }
 }
